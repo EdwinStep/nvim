@@ -43,7 +43,7 @@ Neovim's configurations are located under the following paths, depending on your
 | Windows (cmd)| `%userprofile%\AppData\Local\nvim\` |
 | Windows (powershell)| `$env:USERPROFILE\AppData\Local\nvim\` |
 
-Clone kickstart.nvim:
+Clone repository:
 
 <details><summary> Linux and Mac </summary>
 

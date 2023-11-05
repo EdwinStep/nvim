@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a Neovim configuration based on [kickstart.niv](https://github.com/nvim-lua/kickstart.nvim).
+This is a Neovim configuration based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
 ### Installation
 

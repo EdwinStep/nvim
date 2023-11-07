@@ -10,7 +10,7 @@ return {
         diagnostics = "nvim_lsp",
         offsets = {
           {
-            filetype = "Neotree",
+            filetype = "neo-tree",
             text = "File Explorer",
             text_align = "center",
             highlight = "Directory",

@@ -33,7 +33,7 @@ git clone https://github.com/Edwiuxaz/nvim.git "${XDG_CONFIG_HOME:-$HOME/.config
 
 ```
 # on Windows
-git clone https://github.com/Edwiuxaz/nvim.git "userprofile%\AppData\Local\nvim\ 
+git clone https://github.com/Edwiuxaz/nvim.git "%userprofile%\AppData\Local\nvim\ 
 ```
 
 ```

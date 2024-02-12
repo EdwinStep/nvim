@@ -278,7 +278,6 @@ vim.o.completeopt = 'menuone,noselect'
 vim.o.termguicolors = true
 
 vim.o.relativenumber = true
---vim.o.number = true
 vim.o.scrolloff = 15
 
 vim.o.guifont = "JetBrainsMono Nerd Font:h10"
